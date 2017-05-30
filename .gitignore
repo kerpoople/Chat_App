@@ -197,7 +197,6 @@ build/
 eggs/
 parts/
 var/
-sdist/
 develop-eggs/
 .installed.cfg
 
